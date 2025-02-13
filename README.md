@@ -1,4 +1,4 @@
-PyTorch Classifier with Decision Boundary
+***PyTorch Classifier with Decision Boundary***
 
 Overview
 
