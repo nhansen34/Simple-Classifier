@@ -8,7 +8,7 @@ Features
 
 Implements a basic feedforward neural network for classification.
 
-Uses synthetic or real-world data to train the classifier.
+Uses synthetic data to train the classifier.
 
 Visualizes the decision boundary to understand model performance.
 
